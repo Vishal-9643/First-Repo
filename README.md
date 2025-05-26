@@ -1,3 +1,3 @@
 # First-Repo
 This is my First Git repo. 
-Developer - Vishal 
+Developer - Vishal (Tech Learner)
